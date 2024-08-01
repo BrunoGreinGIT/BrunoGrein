@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Bruno
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+olá me chamo Bruno tenho 22 anos
+Estou fazendo faculdade de ADS e cursos fullstake 
+Mais minha maior vontade é ser um dev front-end 
+Começei a 6 meses atrás e estou em busca de uma primeira oportunidade de trabanho!
+i-mail= greinmachado@gmail.com
+Entre em contato!!
 
-<!---
-BrunoGreindav/BrunoGreindav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
